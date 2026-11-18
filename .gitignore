@@ -1,0 +1,6 @@
+# personal settings (contains your vault path)
+server/config.py
+
+# Python
+__pycache__/
+*.pyc
